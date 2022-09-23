@@ -18,7 +18,7 @@ public class Main4 {
         //초과범위 일 경우 종료
         if (b<1 || b>100){
             System.out.println("\n\t초과범위로 프로그램을 종료합니다.");
-            System.exit(0);
+            System.exit(0);//return도 가능
         }
 
         if(b % 2 ==0){
