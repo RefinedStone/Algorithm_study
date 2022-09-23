@@ -12,7 +12,8 @@ public static void main(String arr[]){
      }
       sum += absolutes[i];
   }
-  return sum;
+  //return sum;
+    System.out.println(sum);
 
 }
 }
