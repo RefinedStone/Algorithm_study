@@ -20,6 +20,6 @@ public static void main(String arr[]){
 
        // int[][] answer = {};
    //  System.out.println(arr3);
-        return answer;
+   //     return answer;
 }
 }
