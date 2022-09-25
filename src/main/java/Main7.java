@@ -9,7 +9,9 @@ public class Main7 {
                     myNum[j]=0;
                 }
             }
-
+    char a = 'a';
+            char b = 'b';
+            Math.max((int)a,(int)b);
         }
         for (int i=0; i<10; i++) {
           //  System.out.println(myNum[i]);
