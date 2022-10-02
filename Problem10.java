@@ -10,7 +10,7 @@ public class Problem10 {
         if((i%2)==0){
             sum+=i;
         }
-        return sum;
+//        return sum;
         }
     }
 }
