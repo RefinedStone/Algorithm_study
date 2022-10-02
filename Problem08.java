@@ -9,6 +9,6 @@ public class Problem08 {
             sum = number + sum;
         }
         sum=sum/ numbers.length;
-        return sum;
+//        return sum;
     }
 }

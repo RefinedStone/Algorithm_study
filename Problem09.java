@@ -5,7 +5,7 @@ public class Problem09 {
         int num1=3;
         int num2=2;
        int num3=((num1*1000)/num2);
-       return num3;
+//       return num3;
 
     }
 }
